@@ -1,2 +1,4 @@
 Database/run_db.sh
 Database/jsons/run_json.sh
+Dashboard/run_test.sh
+Dashboard/run.sh
