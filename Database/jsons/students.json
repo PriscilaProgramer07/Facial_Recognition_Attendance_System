@@ -1,0 +1,247 @@
+[{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab88"
+  },
+  "matricula": 2009020,
+  "nombre": "ALFONSO ALEXIS",
+  "apellido1": "CANTO",
+  "apellido2": "ANCONA",
+  "correo": "2009020@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab92"
+  },
+  "matricula": 2109128,
+  "nombre": "JUALIANA ALEJANDRA",
+  "apellido1": "RAMAYO",
+  "apellido2": "CARDOSO",
+  "correo": "2109128@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab8b"
+  },
+  "matricula": 2109050,
+  "nombre": "KARLA",
+  "apellido1": "DELGADO",
+  "apellido2": "AVENDAÑO",
+  "correo": "2109050@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab89"
+  },
+  "matricula": 2109028,
+  "nombre": "SAMANTHA",
+  "apellido1": "CASTRO",
+  "apellido2": "ECHEVERRIA",
+  "correo": "2109028@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab87"
+  },
+  "matricula": 2109021,
+  "nombre": "ANGEL ADRIAN",
+  "apellido1": "CAMPOS",
+  "apellido2": "BORGES",
+  "correo": "2109021@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab85"
+  },
+  "matricula": 2109012,
+  "nombre": "HAGEO JUDA",
+  "apellido1": "BALAM",
+  "apellido2": "MENDEZ",
+  "correo": "2109012@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab86"
+  },
+  "matricula": 2009009,
+  "nombre": "MIGUEL ANGEL",
+  "apellido1": "BASTARRACHEA",
+  "apellido2": "CARBALLO",
+  "correo": "2009009@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab94"
+  },
+  "matricula": 2109139,
+  "nombre": "ANGEL DAVID",
+  "apellido1": "SANSORES",
+  "apellido2": "CRUZ",
+  "correo": "2109139@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab96"
+  },
+  "matricula": 2109148,
+  "nombre": "PRISCILA GUADALUPE",
+  "apellido1": "TZUC",
+  "apellido2": "ALONZO",
+  "correo": "2109148@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab8c"
+  },
+  "matricula": 2009048,
+  "nombre": "JULIO ERNESTO",
+  "apellido1": "DZUL",
+  "apellido2": "DZIB",
+  "correo": "2009048@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab8d"
+  },
+  "matricula": 2109058,
+  "nombre": "CARLO ALEJANDRO",
+  "apellido1": "EK",
+  "apellido2": "PALOMO",
+  "correo": "2109058@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab93"
+  },
+  "matricula": 2009121,
+  "nombre": "ANTONIO",
+  "apellido1": "RUÍZ",
+  "apellido2": "NOLASCO",
+  "correo": "2009121@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab8a"
+  },
+  "matricula": 2109048,
+  "nombre": "CHRISTOPHER AARON",
+  "apellido1": "CUMI",
+  "apellido2": "LLANES",
+  "correo": "2109048@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab8e"
+  },
+  "matricula": 2109061,
+  "nombre": "JUAN ANTONIO",
+  "apellido1": "FERNÁNDEZ",
+  "apellido2": "CRUZ",
+  "correo": "2109061@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab95"
+  },
+  "matricula": 2109145,
+  "nombre": "YAHIR BENJAMIN",
+  "apellido1": "SULU",
+  "apellido2": "CHI",
+  "correo": "2109145@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab90"
+  },
+  "matricula": 2109099,
+  "nombre": "LUIS DAVID",
+  "apellido1": "MARTÍNEZ",
+  "apellido2": "GUTIERREZ",
+  "correo": "2109099@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab8f"
+  },
+  "matricula": 2109077,
+  "nombre": "HECTOR EMILIANO",
+  "apellido1": "GONZALEZ",
+  "apellido2": "MARTÍNEZ",
+  "correo": "2109077@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671c26fe7e0ba692d520ab91"
+  },
+  "matricula": 2109104,
+  "nombre": "SONIA ESTEFANIA",
+  "apellido1": "MENDIA",
+  "apellido2": "MARTÍNEZ",
+  "correo": "2109104@upy.edu.mx",
+  "grado": 9,
+  "grupo": "A",
+  "carrera": "Ingeniería en Datos"
+},
+{
+  "_id": {
+    "$oid": "671d943de4bea8fba0b45b92"
+  },
+  "matricula": 222222,
+  "nombre": "John",
+  "apellido1": "Doe",
+  "apellido2": "Smith",
+  "correo": "222222@upy.edu.mx",
+  "grado": 9,
+  "grupo": "B",
+  "carrera": "Ingeniería en Datos"
+}]
