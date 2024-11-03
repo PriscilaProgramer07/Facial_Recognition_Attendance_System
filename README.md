@@ -1,9 +1,5 @@
 # AWS Commands
 
-=======
-### Video Link
-[Watch the tutorial](https://youtu.be/oHSesteFK5c)
-
 ### Install aws-shell
 ```bash
 pip install aws-shell
