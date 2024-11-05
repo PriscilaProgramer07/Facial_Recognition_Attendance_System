@@ -8,3 +8,5 @@ venv/
 Dashboard/run_inicio.sh
 Database/run_populate.sh
 Dashboard/__pycache__
+run_inicio3.sh
+
