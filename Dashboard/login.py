@@ -14,7 +14,7 @@ def validarUsuario(usuario,clave):
     Returns:
         bool: True usuario valido, False usuario invalido
     """    
-    dfusuarios = pd.read_csv(r'C:\Users\angel\Documents\FR\Facial_Recognition_Attendance_System\Dashboard\usuarios.csv' )
+    dfusuarios = pd.read_csv('usuarios.csv' )
     
     # Filtra el usuario en el dataframe
     user_data = dfusuarios[dfusuarios['usuario'] == usuario]
@@ -33,7 +33,7 @@ def generarMenu(usuario):
     """        
     with st.sidebar:
         # Cargamos la tabla de usuarios
-        dfusuarios = pd.read_csv(r'C:\Users\angel\Documents\FR\Facial_Recognition_Attendance_System\Dashboard\usuarios.csv')
+        dfusuarios = pd.read_csv(r'usuarios.csv')
         # Filtramos la tabla de usuarios
         dfUsuario =dfusuarios[(dfusuarios['usuario']==usuario)]
         # Cargamos el nombre del usuario
