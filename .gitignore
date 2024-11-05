@@ -2,3 +2,9 @@ Database/run_db.sh
 Database/jsons/run_json.sh
 Dashboard/run_test.sh
 Dashboard/run.sh
+Dashboard/run_insert.sh
+.venv/
+venv/
+Dashboard/run_inicio.sh
+Database/run_populate.sh
+Dashboard/__pycache__
