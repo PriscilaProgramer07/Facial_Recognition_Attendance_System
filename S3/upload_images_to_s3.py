@@ -18,7 +18,7 @@ images = [
     ('pris.jpeg', '2109148'),
     ('julio.jpeg', '2009048'),
     ('sam.jpeg', '2109028'),
-    ('sansores.jpeg', '2009121'),
+    ('sansores.jpeg', '2109139'),
     ('sonia.jpeg', '2109104'),
     ('yahir.jpeg', '2109145'),
     ('antonio.jpeg', '2009121')
